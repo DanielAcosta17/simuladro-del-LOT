@@ -1,0 +1,6 @@
+{
+  "name": "Simulador IoT Arduino UNO R4 WiFi v2.0",
+  "description": "Simulador interactivo de sistema IoT para Arduino UNO R4 WiFi con control de luz LDR, aplausos SY-M213, seguridad por vibración con buzzer y display 7 segmentos, driver L298N y conectividad Bluetooth.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
